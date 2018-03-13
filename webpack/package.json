@@ -1,0 +1,16 @@
+{
+  "name": "webpack1",
+  "version": "1.0.0",
+  "description": "Hello World sử dụng Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -p"
+  },
+  "author": "Huỳnh Nhật Minh Tiến",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.11"
+  }
+}

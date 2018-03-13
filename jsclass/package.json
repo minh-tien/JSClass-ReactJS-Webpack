@@ -1,0 +1,14 @@
+{
+  "name": "jsclass",
+  "version": "1.0.0",
+  "description": "Xử lý CSDL MySQL sử dụng class và kế thừa trong JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huỳnh Nhật Minh Tiến",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
